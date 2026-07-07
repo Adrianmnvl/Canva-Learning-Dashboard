@@ -1,0 +1,79 @@
+id_responden,timestamp,email,nama,usia,jenis_kelamin,program_studi,pernah_pakai_canva,frekuensi_penggunaan,q_praktis_cepat,q_fitur_premium_gratis,q_kualitas_visual,q_mempermudah_tugas,q_terlihat_profesional,q_interaktif_kreatif,q_fitur_mudah,q_navigasi_sederhana,q_mudah_temukan_fitur,q_cepat_belajar,q_rasa_aman,q_platform_andal,q_privasi_data,q_jarang_error,q_reputasi_populer,q_pakai_berulang,q_rekomendasikan,q_pilih_canva,q_eksplorasi_fitur,q_jadikan_utama
+1,2026-04-09 13:36:35,lala.nilaamalia.n@gmail.com,Nila Amalia Nabila,19,Perempuan,Sistem Informasi,Pernah,Sering,4,4,4,5,4,5,4,4,4,4,4,5,3,4,5,5,5,5,5,4
+2,2026-04-09 13:48:35,meylistaayudia14@gmail.com,Meylista Ayudia Sanggi,18,Perempuan,Kesehatan Masyarakat,Pernah,Sangat Sering,4,5,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4
+3,2026-04-09 13:49:02,rayshaallyah16@gmail.com,Allyah Raysha,19,Perempuan,Psikologi,Pernah,Sering,5,4,5,5,5,5,5,5,5,5,5,5,4,3,5,4,5,5,5,4
+4,2026-04-09 13:52:31,areefamutiaramadhani@gmail.com,Areefa,18,Perempuan,Agroteknologi,Pernah,Sering,4,4,4,4,4,4,4,4,3,3,4,4,4,2,4,4,4,4,4,4
+5,2026-04-09 15:18:39,saknazsnn@gmail.com,Zhenan Sakna Nabila,19,Perempuan,Pendidikan Vokasional Tata Rias (S1),Pernah,Sering,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+6,2026-04-09 15:58:38,anayasanur@gmail.com,Agna yas’anur,19,Perempuan,Manajemen,Pernah,Sangat Sering,5,5,5,5,4,4,5,4,5,4,3,5,3,3,5,5,5,3,3,3
+7,2026-04-09 16:54:19,tasyanauraayu1@gmail.com,Caca,19,Perempuan,Ekonomi,Pernah,Sering,4,3,4,5,4,4,5,4,4,4,4,5,4,5,4,4,5,5,4,4
+8,2026-04-09 18:56:15,kamaliyahraisya@gmail.com,raisya,0,Perempuan,Pendidikan Agama Islam,Pernah,Sangat Sering,5,5,5,5,5,5,4,5,4,5,4,5,4,4,5,5,5,4,4,5
+9,2026-04-09 18:58:58,wisnutsani06@gmail.com,wisnu tsani,18,Laki-Laki,Pendidikan Teknik Bangunan,Pernah,Jarang,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+10,2026-04-09 19:05:16,adwirahmah2202@gmail.com,adin,19,Perempuan,Teknik Sipil,Pernah,Sering,4,4,4,5,5,5,4,4,3,4,3,3,3,2,3,4,4,3,3,3
+11,2026-04-09 19:29:29,ridhoqs07@gmail.com,Ridho Riz Qisto Sussly,19,Laki-Laki,Ilmu Administrasi Niaga,Pernah,Sangat Sering,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+12,2026-04-09 20:12:41,agung.rivaldy.ar@gmail.com,Agung Rivaldi,22,Laki-Laki,Kesejahteraan Sosial,Pernah,Sering,4,5,4,4,4,4,4,4,4,3,3,3,4,3,3,3,4,3,3,3
+13,2026-04-09 20:13:40,caskini68@gmail.com,Muhammad Dzikry Rafif,20,Laki-Laki,Bimbingan Penyuluhan Islam,Pernah,Sering,4,4,4,4,4,4,4,4,3,3,3,4,4,4,4,3,4,3,3,4
+14,2026-04-09 20:15:05,orycteropus061@gmail.com,Andika Fathir Pratama Yuda,20,Laki-Laki,Bimbingan Penyuluhan Islam,Pernah,Sering,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+15,2026-04-09 20:20:17,kfirasy@gmail.com,Kayyis Firasy,22,Laki-Laki,Kesejahteraan Sosial,Pernah,Sering,5,3,4,5,4,5,5,4,4,5,4,4,3,4,5,4,3,3,4,4
+16,2026-04-09 20:21:32,ilhamgiffari0813@gmail.com,Ilham Giffarj,22,Laki-Laki,Pengembangan Masyarakat Islam,Pernah,Sering,4,5,4,4,5,4,5,4,5,4,4,5,4,5,4,4,4,5,4,4
+17,2026-04-09 20:27:12,fikrimasuk1@gmail.com,Muhammad Fikri Kurniawan,22,Laki-Laki,Kesejahteraan Sosial,Pernah,Jarang,4,4,4,4,3,3,4,4,4,4,4,4,4,3,4,4,4,2,3,4
+18,2026-04-09 20:29:40,assadelzulfii30@gmail.com,Moh. Assadel Zulfi Baihaqi,22,Laki-Laki,Kesejahteraan Sosial,Pernah,Jarang,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5
+19,2026-04-09 20:32:23,ash.shidiqi249@gmail.com,Ageng Jati,22,Laki-Laki,Kesejahteraan Sosial,Pernah,Sering,4,3,4,4,4,4,4,4,4,4,3,3,3,3,3,4,5,4,4,3
+20,2026-04-09 20:35:45,rakawinata15@gmail.com,raka winata putra,22,Laki-Laki,Kessos,Pernah,Jarang,4,4,4,4,4,3,5,4,3,5,4,4,4,4,4,4,3,3,4,3
+21,2026-04-09 21:25:22,mrakhaadhitya@gmail.com,Muhammad Rakha Adhitya,21,Laki-Laki,Kesejahteraan Sosial,Pernah,Jarang,5,3,4,5,5,5,5,4,4,4,4,5,3,2,5,5,5,3,5,3
+22,2026-04-09 22:38:23,alamandazz.zahra@gmail.com,Amanda Zahra Rahmasari,0,Perempuan,Ilmu Dan Teknologi Pangan,Pernah,Jarang,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+23,2026-04-10 09:18:52,mahendriniluhayu@gmail.com,Ni Luh Ayu,18,Perempuan,Bisnis Digital,Pernah,Sering,5,3,5,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4
+24,2026-04-10 09:19:20,mutiararamadhanikusuma@gmail.com,Mutiara Ramadhani,19,Perempuan,Rekayasa Keselamatan Kebakaran,Pernah,Sangat Sering,5,5,5,5,5,4,5,5,5,5,4,5,4,4,4,5,5,4,4,4
+25,2026-04-10 09:25:09,aleshazerinaa@gmail.com,alesha,19,Perempuan,Fire Safety Engineering,Pernah,Sangat Sering,5,5,3,4,3,4,4,4,3,4,4,3,3,3,4,5,5,4,4,4
+26,2026-04-10 09:36:55,panduputrak80@gmail.com,Pandu Putra Kusuma,18,Laki-Laki,Rekayasa Keselamatan Kebakaran,Pernah,Sering,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,5,5,4,4,4
+27,2026-04-10 09:44:43,ashalinazahra7@gmail.com,ashalina zahra,19,Perempuan,Bisnis Digital,Pernah,Sering,5,4,5,5,4,4,5,5,4,4,4,5,4,4,4,5,4,5,4,4
+28,2026-04-10 15:35:57,nahyasakira46@gmail.com,Nahya sakira,18,Perempuan,Bisnis Digital,Pernah,Sering,4,3,4,4,4,4,4,3,4,4,4,4,4,3,3,4,4,3,4,4
+29,2026-04-10 15:57:00,andriansyahbintang65@gmail.com,Bintang Andriansyah,21,Laki-Laki,Kesejahteraan Sosial,Pernah,Sering,5,3,5,5,5,5,5,5,4,4,5,5,5,3,5,4,4,4,5,4
+30,2026-04-10 22:31:16,rania.zakirah14@gmail.com,Rania Amara Zakirah,18,Perempuan,Bisnis Digital,Pernah,Sering,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+31,2026-04-11 06:07:33,egiabdul.02@gmail.com,Abdul,23,Laki-Laki,Kesejahteraan Sosial,Pernah,Sangat Sering,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4
+32,2026-04-11 10:27:42,teviaalindya@gmail.com,tevia alindya,18,Perempuan,Sastra Jepang,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,4,5,5,5
+33,2026-04-11 10:29:29,nafisahnaila1113@gmail.com,Nafisah Naila Rahmah,19,Perempuan,S1 Bisnis Digital,Pernah,Sangat Sering,5,4,5,5,5,5,4,4,4,4,4,5,3,3,4,5,5,4,4,4
+34,2026-04-11 10:33:58,daffamaulana8e@gmail.com,Daffa Maulana Yusuf,19,Laki-Laki,Bisnis Digital,Pernah,Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+35,2026-04-11 10:35:21,reyshq1@gmail.com,Reynard Shaquillo,19,Laki-Laki,Bisnis Digital,Pernah,Sering,5,3,5,5,5,5,5,5,5,4,5,5,3,4,5,5,5,5,5,5
+36,2026-04-11 10:42:19,naylaapriliani779@gmail.com,Nayla Apriliani Putri,18,Perempuan,Bisnis Digital,Pernah,Sering,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+37,2026-04-11 10:46:18,endrafadil19@gmail.com,nathannael,19,Laki-Laki,Hubungan Internasional,Pernah,Sangat Sering,5,4,5,4,4,4,4,4,4,5,4,5,4,4,5,4,4,5,5,4
+38,2026-04-11 10:56:55,kanayasekar2@gmail.com,Kanaya,0,Perempuan,Psikologi,Pernah,Sangat Sering,5,4,5,5,5,5,5,5,4,4,4,4,4,2,4,5,5,5,5,5
+39,2026-04-11 11:06:45,hdsjsy083@gmail.com,Hanna,18,Perempuan,Sistem Informasi,Pernah,Sering,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,2,3,4
+40,2026-04-11 11:12:30,vegadelmare2006@gmail.com,Vega,19,Perempuan,Sastra Indonesia,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5
+41,2026-04-11 11:14:11,fairuzziffany00@gmail.com,fairuz,19,Perempuan,S1 Keperawatan,Pernah,Sangat Sering,4,3,4,5,3,4,4,4,3,3,3,3,3,3,5,3,4,4,4,4
+42,2026-04-11 11:15:17,aiysahicha08@gmail.com,Alya,18,Perempuan,Manajemen Bisnis,Pernah,Sering,3,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4
+43,2026-04-11 11:16:12,symmayyyy08@gmail.com,Symphony,18,Perempuan,Fmipa -Ui,Pernah,Sangat Sering,5,3,4,5,4,4,4,5,4,4,4,4,4,4,4,5,5,4,4,4
+44,2026-04-11 11:24:41,emiliyaekaptr@gmail.com,Emiliya Eka Putri,19,Perempuan,Manajemen S1,Pernah,Sering,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3
+45,2026-04-11 11:26:44,arenlg0027@gmail.com,Sharen Tina,20,Perempuan,Bisnis Digital,Pernah,Sering,4,4,4,5,4,4,4,4,3,4,5,5,4,3,4,4,4,4,4,5
+46,2026-04-11 11:37:40,akbarbrayn11@gmail.com,Brayn Akbar,20,Laki-Laki,Manajemen,Pernah,Sering,4,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4
+47,2026-04-11 11:40:44,meidianarahmaniai@gmail.com,Meidiana Rahmania Indriati,18,Perempuan,Manajemen,Pernah,Sangat Sering,5,3,4,5,4,4,4,3,2,3,4,5,5,3,5,4,3,3,5,4
+48,2026-04-11 12:08:32,nofadillahs@gmail.com,Bila,19,Perempuan,Bisnis Digital,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5
+49,2026-04-11 12:09:16,blvahi0726@gmail.com,Belva Nyonara Rasi,18,Perempuan,S. Tr Terapi Gigi,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+50,2026-04-11 12:16:54,muhammadjawwad707@gmail.com,Muhammad Jawwad,19,Laki-Laki,Bisnis Digital,Pernah,Sangat Sering,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5
+51,2026-04-11 12:35:07,oktavianokenzo.kencana2910@gmail.com,Oktaviano Kenzo Kencana,19,Laki-Laki,Akuntansi,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+52,2026-04-11 12:37:46,nungky.indahh06@gmail.com,Nungky Indah,18,Perempuan,S1 Akuntansi,Pernah,Sering,5,3,4,5,4,4,4,4,3,4,4,4,3,5,4,5,4,3,3,4
+53,2026-04-11 12:39:32,aban24052007@gmail.com,aban,18,Laki-Laki,Advertising,Pernah,Sangat Sering,5,5,4,4,4,4,4,4,4,4,4,3,4,3,3,4,4,4,4,4
+54,2026-04-11 12:50:50,nabilarhd07@gmail.com,Nabila Tul Rahmadiah,19,Perempuan,Teknik Logistik,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4
+55,2026-04-11 12:55:09,jesicatricia12@gmail.com,Andi Jesica,18,Perempuan,S1 Bisnis Digital,Pernah,Sering,5,3,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4
+56,2026-04-11 13:11:31,dheardny11@gmail.com,dhea,19,Perempuan,Sains Komunikasi,Pernah,Sering,4,4,5,5,4,4,4,4,3,4,4,4,4,2,4,4,3,4,4,4
+57,2026-04-11 13:41:04,sekarcahyop@gmail.com,Sekar Cahyo Pangesti,19,Perempuan,Akuntansi,Pernah,Jarang,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+58,2026-04-11 14:01:15,varesdyon54@gmail.com,Dyon,19,Laki-Laki,Informatika,Pernah,Sering,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+59,2026-04-11 14:18:47,mhmmdfarrel20@gmail.com,Muhammad Farrel Widianto,19,Laki-Laki,Bisnis Digital,Pernah,Sering,5,3,5,5,4,4,4,4,2,4,4,4,3,3,4,5,5,3,4,2
+60,2026-04-11 14:40:15,deepalone094@gmail.com,Raphael Benaya Damenta Sembiring,18,Laki-Laki,Bisnis Digital,Pernah,Sering,4,5,4,5,4,5,5,4,5,4,5,5,5,4,5,5,5,5,5,5
+61,2026-04-11 14:48:59,zahrrakeyyla@gmail.com,Keyla Zahra Maharani,0,Perempuan,Bisnis Digital,Pernah,Sangat Sering,5,3,5,5,4,4,5,5,5,5,4,5,5,3,4,5,4,5,5,5
+62,2026-04-11 14:52:26,silviailhamnabilla321@gmail.com,Silvia,19,Perempuan,S1 Manajemen,Pernah,Sering,4,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,3,3,3,4
+63,2026-04-11 14:52:33,enjelikaester2@gmail.com,Ester Enjelika Destriani Simatupang,19,Perempuan,Akuntansi Sektor Publik,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5
+64,2026-04-11 17:46:49,vivandanu07@gmail.com,El,19,Laki-Laki,Teknik Perkapalan,Pernah,Jarang,4,4,5,4,4,3,4,4,3,4,4,4,4,3,5,3,3,4,4,3
+65,2026-04-11 19:32:22,alsasabira25@gmail.com,Alsa,21,Perempuan,Pendidikan Ekonomi,Pernah,Sangat Sering,5,3,4,5,4,4,5,4,4,4,4,5,4,4,5,5,4,4,4,4
+66,2026-04-11 20:00:02,shofiyahkamila01307@gmail.com,SHOFIYAH KAMILA,21,Perempuan,Manajemen Sdm Aparatur,Pernah,Sangat Sering,,2,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4
+67,2026-04-11 20:09:10,rizqymauliya@gmail.com,Mauliya Risqi Handayan,18,Perempuan,Pendidikan Kesejahteraan Keluarga,Pernah,Sering,4,4,5,5,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,4
+68,2026-04-11 20:34:40,serepakpahan809@gmail.com,Sere Natali,19,Perempuan,S1 Bisnis Digital,Pernah,Jarang,3,2,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,3,5,3
+69,2026-04-12 10:54:41,raeyakaka36@gmail.com,Raeya Kaka Bramasta,19,Laki-Laki,Bisnis Digital,Pernah,Sering,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,5,5,5,3,4
+70,2026-04-12 11:24:15,raihanakbar561@gmail.com,Akbar,19,Laki-Laki,Bisdig,Pernah,Sering,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+71,2026-04-12 19:13:18,shafy.farras@gmail.com,Mohammad Shafi Farras,19,Laki-Laki,Bisnis Digital,Pernah,Sering,5,3,5,5,5,4,5,5,5,5,4,5,3,4,4,5,5,3,5,4
+72,2026-04-12 19:22:53,akbaradzanzaa@gmail.com,akbar adzanza,19,Laki-Laki,Bisnis Digital,Pernah,Jarang,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+73,2026-04-12 20:39:06,ahmdhusen02@gmail.com,Ahmad Husen,23,Laki-Laki,Psikologi,Pernah,Sangat Sering,5,4,5,5,4,5,5,5,4,5,3,4,3,4,4,4,4,4,5,4
+74,2026-04-12 22:01:29,hilmialiie@gmail.com,Ahmad Hilmi Ali,19,Laki-Laki,Bisnis Digital,Pernah,Sering,5,3,4,5,5,4,4,5,4,4,4,5,4,4,5,5,4,4,4,4
+75,2026-04-15 22:46:18,jacindanajla@gmail.com,jacinda najla,19,Perempuan,Bisnis Digital,Pernah,Jarang,3,4,4,4,3,3,3,3,3,3,3,2,3,3,3,2,3,3,3,3
+76,2026-04-16 13:35:57,sguswono@gmail.com,Suryadi Guswono,22,Laki-Laki,Ilmu Hukum,Pernah,Sering,4,3,4,4,4,4,4,4,4,4,3,3,3,3,3,4,4,4,4,4
+77,2026-04-16 21:29:54,agtsthetic@gmail.com,Izzah Anggita Apriliani,19,Perempuan,Bisnis Digital,Pernah,Sangat Sering,4,5,4,4,3,4,4,3,4,4,4,4,3,3,4,4,4,4,4,4
+78,2026-04-27 16:11:59,maysakhoirushifaa@gmail.com,Syifa Akbar,18,Perempuan,Bisnis Digital,Pernah,Sangat Sering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5

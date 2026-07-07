@@ -1,0 +1,79 @@
+timestamp,usia,jenis_kelamin,program_studi,frekuensi_penggunaan,q_praktis_cepat,q_fitur_premium_gratis,q_kualitas_visual,q_mempermudah_tugas,q_terlihat_profesional,q_interaktif_kreatif,q_fitur_mudah,q_navigasi_sederhana,q_mudah_temukan_fitur,q_cepat_belajar,q_rasa_aman,q_platform_andal,q_privasi_data,q_jarang_error,q_reputasi_populer,q_pakai_berulang,q_rekomendasikan,q_pilih_canva,q_eksplorasi_fitur,q_jadikan_utama
+2026-04-09 13:36:35,19,Perempuan,Sistem Informasi,Sering,4.0,4,4,5,4,5,4,4,4,4,4,5,3,4,5,5,5,5,5,4
+2026-04-09 13:48:35,18,Perempuan,Kesehatan Masyarakat,Sangat Sering,4.0,5,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4
+2026-04-09 13:49:02,19,Perempuan,Psikologi,Sering,5.0,4,5,5,5,5,5,5,5,5,5,5,4,3,5,4,5,5,5,4
+2026-04-09 13:52:31,18,Perempuan,Agroteknologi,Sering,4.0,4,4,4,4,4,4,4,3,3,4,4,4,2,4,4,4,4,4,4
+2026-04-09 15:18:39,19,Perempuan,Pendidikan Vokasional Tata Rias (S1),Sering,5.0,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-09 15:58:38,19,Perempuan,Manajemen,Sangat Sering,5.0,5,5,5,4,4,5,4,5,4,3,5,3,3,5,5,5,3,3,3
+2026-04-09 16:54:19,19,Perempuan,Ekonomi,Sering,4.0,3,4,5,4,4,5,4,4,4,4,5,4,5,4,4,5,5,4,4
+2026-04-09 18:56:15,,Perempuan,Pendidikan Agama Islam,Sangat Sering,5.0,5,5,5,5,5,4,5,4,5,4,5,4,4,5,5,5,4,4,5
+2026-04-09 18:58:58,18,Laki-Laki,Pendidikan Teknik Bangunan,Jarang,4.0,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2026-04-09 19:05:16,19,Perempuan,Teknik Sipil,Sering,4.0,4,4,5,5,5,4,4,3,4,3,3,3,2,3,4,4,3,3,3
+2026-04-09 19:29:29,19,Laki-Laki,Ilmu Administrasi Niaga,Sangat Sering,5.0,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-09 20:12:41,22,Laki-Laki,Kesejahteraan Sosial,Sering,4.0,5,4,4,4,4,4,4,4,3,3,3,4,3,3,3,4,3,3,3
+2026-04-09 20:13:40,20,Laki-Laki,Bimbingan Penyuluhan Islam,Sering,4.0,4,4,4,4,4,4,4,3,3,3,4,4,4,4,3,4,3,3,4
+2026-04-09 20:15:05,20,Laki-Laki,Bimbingan Penyuluhan Islam,Sering,4.0,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5
+2026-04-09 20:20:17,22,Laki-Laki,Kesejahteraan Sosial,Sering,5.0,3,4,5,4,5,5,4,4,5,4,4,3,4,5,4,3,3,4,4
+2026-04-09 20:21:32,22,Laki-Laki,Pengembangan Masyarakat Islam,Sering,4.0,5,4,4,5,4,5,4,5,4,4,5,4,5,4,4,4,5,4,4
+2026-04-09 20:27:12,22,Laki-Laki,Kesejahteraan Sosial,Jarang,4.0,4,4,4,3,3,4,4,4,4,4,4,4,3,4,4,4,2,3,4
+2026-04-09 20:29:40,22,Laki-Laki,Kesejahteraan Sosial,Jarang,5.0,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5
+2026-04-09 20:32:23,22,Laki-Laki,Kesejahteraan Sosial,Sering,4.0,3,4,4,4,4,4,4,4,4,3,3,3,3,3,4,5,4,4,3
+2026-04-09 20:35:45,22,Laki-Laki,Kessos,Jarang,4.0,4,4,4,4,3,5,4,3,5,4,4,4,4,4,4,3,3,4,3
+2026-04-09 21:25:22,21,Laki-Laki,Kesejahteraan Sosial,Jarang,5.0,3,4,5,5,5,5,4,4,4,4,5,3,2,5,5,5,3,5,3
+2026-04-09 22:38:23,,Perempuan,Ilmu Dan Teknologi Pangan,Jarang,5.0,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-10 09:18:52,18,Perempuan,Bisnis Digital,Sering,5.0,3,5,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4
+2026-04-10 09:19:20,19,Perempuan,Rekayasa Keselamatan Kebakaran,Sangat Sering,5.0,5,5,5,5,4,5,5,5,5,4,5,4,4,4,5,5,4,4,4
+2026-04-10 09:25:09,19,Perempuan,Fire Safety Engineering,Sangat Sering,5.0,5,3,4,3,4,4,4,3,4,4,3,3,3,4,5,5,4,4,4
+2026-04-10 09:36:55,18,Laki-Laki,Rekayasa Keselamatan Kebakaran,Sering,5.0,5,5,5,5,5,5,5,5,5,5,4,4,4,4,5,5,4,4,4
+2026-04-10 09:44:43,19,Perempuan,Bisnis Digital,Sering,5.0,4,5,5,4,4,5,5,4,4,4,5,4,4,4,5,4,5,4,4
+2026-04-10 15:35:57,18,Perempuan,Bisnis Digital,Sering,4.0,3,4,4,4,4,4,3,4,4,4,4,4,3,3,4,4,3,4,4
+2026-04-10 15:57:00,21,Laki-Laki,Kesejahteraan Sosial,Sering,5.0,3,5,5,5,5,5,5,4,4,5,5,5,3,5,4,4,4,5,4
+2026-04-10 22:31:16,18,Perempuan,Bisnis Digital,Sering,4.0,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2026-04-11 06:07:33,23,Laki-Laki,Kesejahteraan Sosial,Sangat Sering,5.0,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4
+2026-04-11 10:27:42,18,Perempuan,Sastra Jepang,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,4,5,5,5
+2026-04-11 10:29:29,19,Perempuan,S1 Bisnis Digital,Sangat Sering,5.0,4,5,5,5,5,4,4,4,4,4,5,3,3,4,5,5,4,4,4
+2026-04-11 10:33:58,19,Laki-Laki,Bisnis Digital,Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-11 10:35:21,19,Laki-Laki,Bisnis Digital,Sering,5.0,3,5,5,5,5,5,5,5,4,5,5,3,4,5,5,5,5,5,5
+2026-04-11 10:42:19,18,Perempuan,Bisnis Digital,Sering,4.0,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2026-04-11 10:46:18,19,Laki-Laki,Hubungan Internasional,Sangat Sering,5.0,4,5,4,4,4,4,4,4,5,4,5,4,4,5,4,4,5,5,4
+2026-04-11 10:56:55,,Perempuan,Psikologi,Sangat Sering,5.0,4,5,5,5,5,5,5,4,4,4,4,4,2,4,5,5,5,5,5
+2026-04-11 11:06:45,18,Perempuan,Sistem Informasi,Sering,4.0,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,2,3,4
+2026-04-11 11:12:30,19,Perempuan,Sastra Indonesia,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5
+2026-04-11 11:14:11,19,Perempuan,S1 Keperawatan,Sangat Sering,4.0,3,4,5,3,4,4,4,3,3,3,3,3,3,5,3,4,4,4,4
+2026-04-11 11:15:17,18,Perempuan,Manajemen Bisnis,Sering,3.0,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4
+2026-04-11 11:16:12,18,Perempuan,Kimia,Sangat Sering,5.0,3,4,5,4,4,4,5,4,4,4,4,4,4,4,5,5,4,4,4
+2026-04-11 11:24:41,19,Perempuan,Manajemen S1,Sering,4.0,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3
+2026-04-11 11:26:44,20,Perempuan,Bisnis Digital,Sering,4.0,4,4,5,4,4,4,4,3,4,5,5,4,3,4,4,4,4,4,5
+2026-04-11 11:37:40,20,Laki-Laki,Manajemen,Sering,4.0,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4
+2026-04-11 11:40:44,18,Perempuan,Manajemen,Sangat Sering,5.0,3,4,5,4,4,4,3,2,3,4,5,5,3,5,4,3,3,5,4
+2026-04-11 12:08:32,19,Perempuan,Bisnis Digital,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5
+2026-04-11 12:09:16,18,Perempuan,S. Tr Terapi Gigi,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-11 12:16:54,19,Laki-Laki,Bisnis Digital,Sangat Sering,4.0,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5
+2026-04-11 12:35:07,19,Laki-Laki,Akuntansi,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2026-04-11 12:37:46,18,Perempuan,S1 Akuntansi,Sering,5.0,3,4,5,4,4,4,4,3,4,4,4,3,5,4,5,4,3,3,4
+2026-04-11 12:39:32,18,Laki-Laki,Advertising,Sangat Sering,5.0,5,4,4,4,4,4,4,4,4,4,3,4,3,3,4,4,4,4,4
+2026-04-11 12:50:50,19,Perempuan,Teknik Logistik,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4
+2026-04-11 12:55:09,18,Perempuan,S1 Bisnis Digital,Sering,5.0,3,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4
+2026-04-11 13:11:31,19,Perempuan,Sains Komunikasi,Sering,4.0,4,5,5,4,4,4,4,3,4,4,4,4,2,4,4,3,4,4,4
+2026-04-11 13:41:04,19,Perempuan,Akuntansi,Jarang,4.0,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2026-04-11 14:01:15,19,Laki-Laki,Informatika,Sering,4.0,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+2026-04-11 14:18:47,19,Laki-Laki,Bisnis Digital,Sering,5.0,3,5,5,4,4,4,4,2,4,4,4,3,3,4,5,5,3,4,2
+2026-04-11 14:40:15,18,Laki-Laki,Bisnis Digital,Sering,4.0,5,4,5,4,5,5,4,5,4,5,5,5,4,5,5,5,5,5,5
+2026-04-11 14:48:59,,Perempuan,Bisnis Digital,Sangat Sering,5.0,3,5,5,4,4,5,5,5,5,4,5,5,3,4,5,4,5,5,5
+2026-04-11 14:52:26,19,Perempuan,S1 Manajemen,Sering,4.0,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,3,3,3,4
+2026-04-11 14:52:33,19,Perempuan,Akuntansi Sektor Publik,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5
+2026-04-11 17:46:49,19,Laki-Laki,Teknik Perkapalan,Jarang,4.0,4,5,4,4,3,4,4,3,4,4,4,4,3,5,3,3,4,4,3
+2026-04-11 19:32:22,21,Perempuan,Pendidikan Ekonomi,Sangat Sering,5.0,3,4,5,4,4,5,4,4,4,4,5,4,4,5,5,4,4,4,4
+2026-04-11 20:00:02,21,Perempuan,Manajemen Sdm Aparatur,Sangat Sering,,2,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4
+2026-04-11 20:09:10,18,Perempuan,Pendidikan Kesejahteraan Keluarga,Sering,4.0,4,5,5,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,4
+2026-04-11 20:34:40,19,Perempuan,S1 Bisnis Digital,Jarang,3.0,2,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,3,5,3
+2026-04-12 10:54:41,19,Laki-Laki,Bisnis Digital,Sering,4.0,4,4,4,4,4,4,4,4,4,4,4,4,3,4,5,5,5,3,4
+2026-04-12 11:24:15,19,Laki-Laki,Bisdig,Sering,5.0,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+2026-04-12 19:13:18,19,Laki-Laki,Bisnis Digital,Sering,5.0,3,5,5,5,4,5,5,5,5,4,5,3,4,4,5,5,3,5,4
+2026-04-12 19:22:53,19,Laki-Laki,Bisnis Digital,Jarang,4.0,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2026-04-12 20:39:06,23,Laki-Laki,Psikologi,Sangat Sering,5.0,4,5,5,4,5,5,5,4,5,3,4,3,4,4,4,4,4,5,4
+2026-04-12 22:01:29,19,Laki-Laki,Bisnis Digital,Sering,5.0,3,4,5,5,4,4,5,4,4,4,5,4,4,5,5,4,4,4,4
+2026-04-15 22:46:18,19,Perempuan,Bisnis Digital,Jarang,3.0,4,4,4,3,3,3,3,3,3,3,2,3,3,3,2,3,3,3,3
+2026-04-16 13:35:57,22,Laki-Laki,Ilmu Hukum,Sering,4.0,3,4,4,4,4,4,4,4,4,3,3,3,3,3,4,4,4,4,4
+2026-04-16 21:29:54,19,Perempuan,Bisnis Digital,Sangat Sering,4.0,5,4,4,3,4,4,3,4,4,4,4,3,3,4,4,4,4,4,4
+2026-04-27 16:11:59,18,Perempuan,Bisnis Digital,Sangat Sering,5.0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
